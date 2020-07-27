@@ -1,0 +1,16 @@
+body{
+    background-color:coral;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color:teal;
+    margin:0 auto;
+    margin-top:50px;
+}
+button{
+    margin-top:80px;
+    padding:10px 10px;
+    background-color:teal;
+    font-weight:bold;
+}    
